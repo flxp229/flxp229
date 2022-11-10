@@ -25,6 +25,12 @@
   </p>
 </p>
 
+## Get in touch
+
+<div style="display:inline;">
+<img src="https://img.shields.io/static/v1?iscord&label=DISCORD&message=Noobert%238826&color=blue&style=for-the-badge&logo=discord">
+</div>
+
 ## Statistics
 
 ![Felix' GitHub stats](https://github-readme-stats.vercel.app/api?username=flxp229&show_icons=true&theme=dark&count_private=true)
