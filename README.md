@@ -16,4 +16,11 @@
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=html,css,js,lua,py,github,discord,instagram" />
   </a>
+  <br>
+  <font align="left">
+  HTML - Intermediate
+  CSS - Intermediate
+  JS - Beginner
+  Lua - Intermediate
+  Python - Beginner
 </p>
