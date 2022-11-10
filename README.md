@@ -18,9 +18,10 @@
   </a>
   <br>
   <font align="left">
-  HTML - Intermediate
-  CSS - Intermediate
-  JS - Beginner
-  Lua - Intermediate
-  Python - Beginner
+  HTML - Intermediate<br>
+  CSS - Intermediate<br>
+  JS - Beginner<br>
+  Lua - Intermediate<br>
+  Python - Beginner<br>
+  </font>
 </p>
