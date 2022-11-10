@@ -30,4 +30,5 @@
 ![Felix' GitHub stats](https://github-readme-stats.vercel.app/api?username=flxp229&show_icons=true&theme=dark&count_private=true)
 
 <img alt="GitHub followers" src="https://img.shields.io/github/followers/flxp229?color=red&label=Followers&style=for-the-badge">
-![Felix' Profile Views](https://komarev.com/ghpvc/?username=flxp229&style=for-the-badge&color=brightgreen)
+
+![](https://komarev.com/ghpvc/?username=flxp229)
