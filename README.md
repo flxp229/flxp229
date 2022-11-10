@@ -6,6 +6,6 @@
 
 <ul>
   <li>I'm a hobby developer and have 1 year of experience with coding. It all started at Roblox with Lua, later, Web    development drawed me. Now, I'm leading the <a href="https://github.com/WFC-eSports-Official">WFC eSports Official<a> homepage project with <a href="https://github.com/ragr07">@ragr07</a>.</li>
-  <li>Find me on discord! Name and tag: Noobert027#0000</li>
+  <li>Find me on discord! Name and tag: Noobert#8826</li>
   <li>IRL, I'm interested in Coding, Snooker, Tennis and Piano.</li>
 </ul>
