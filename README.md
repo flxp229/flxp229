@@ -1,6 +1,6 @@
 # Hi, I'm Felix!👋
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00F7DC&background=FFFFFF00&width=435&lines=Hey+there%2C+it%E2%80%99s+Felix!;Head+developer+%40WFC+eSports+Official;Game+developer+at+Roblox;Skills%3A+HTML%2C+CSS%2C+JavaScript%2C+Lua" alt="Typing SVG" /></a>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00F7DC&background=FFFFFF00&width=435&lines=Hey+there%2C+it%E2%80%99s+Felix!;Head+developer+%40WFC+eSports+Official;Game+developer+at+Roblox;Skills%3A+HTML%2C+CSS%2C+JavaScript%2C+Lua" alt="Typing SVG">
 
 ## About me 
 
