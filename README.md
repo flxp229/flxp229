@@ -16,7 +16,7 @@
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=html,css,js,lua,py,github,discord,instagram" />
   </a>
-  <p align ="left">
+  <p>
   HTML - Intermediate<br>
   CSS - Intermediate<br>
   JS - Beginner<br>
