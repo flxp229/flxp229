@@ -9,3 +9,11 @@
   <li>Find me on discord! Name and tag: Noobert#8826</li>
   <li>IRL, I'm interested in Coding, Snooker, Tennis, Piano and Aviation.</li>
 </ul>
+
+## Skills
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,js,lua,py,github,discord,instagram" />
+  </a>
+</p>
