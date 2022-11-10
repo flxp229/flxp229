@@ -31,4 +31,4 @@
 
 <img alt="GitHub followers" src="https://img.shields.io/github/followers/flxp229?color=red&label=Followers&style=for-the-badge">
 
-![](https://komarev.com/ghpvc/?username=flxp229)
+![](https://komarev.com/ghpvc/?username=flxp229&style=for-the-badge@color=brightgreen)
