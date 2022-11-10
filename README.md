@@ -28,3 +28,4 @@
 ## Activity
 
 ![Felix' GitHub stats](https://github-readme-stats.vercel.app/api?username=flxp229&show_icons=true&theme=dark&count_private=true)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=flxp229&layout=compact)](https://github.com/flxp229/github-readme-stats)
