@@ -12,16 +12,9 @@
 
 ## Skills
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,lua,py,github,discord,instagram" />
-  <p align ="center">
-  HTML - Intermediate<br>
-  CSS - Intermediate<br>
-  JS - Beginner<br>
-  Lua - Intermediate<br>
-  Python - Beginner<br>
-  </p>
-</p>
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,lua,java,github,discord,instagram" />
+</div>
 
 ## Statistics
 
