@@ -18,8 +18,6 @@
 
 ## Statistics
 
-![Felix‘ GitHub stats](https://github-readme-stats.vercel.app/api?username=flxp229&show=reviews,discussions_answered&count_private=true&show_icons=true&theme=tokyonight)
-
 <div style="display: inline;">
 
 <img src="https://komarev.com/ghpvc/?username=flxp229&style=for-the-badge&color=brightgreen">
