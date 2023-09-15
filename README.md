@@ -5,8 +5,8 @@
 ## About me 
 
 <ul>
-  <li>I'm a hobby developer having 1 year of experience with coding.</li>
-  <li>My focus lies on software development, but I also have some knowledge in web development.</li>
+  <li>I'm a hobby developer, with around 2 years of coding experience.</li>
+  <li>My focus lies on software development, but I also count web development towards my skills.</li>
   <li>Furthermore, I'm an aviation enthusiast.</li>
 </ul>
 
