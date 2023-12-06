@@ -5,15 +5,15 @@
 ## About me 
 
 <ul>
-  <li>I'm a hobby developer, with around 2 years of coding experience.</li>
-  <li>My focus lies on software development, but I also count web development towards my skills.</li>
-  <li>Furthermore, I'm an aviation enthusiast.</li>
+  <li>Hobby developer</li>
+  <li>Focusing on Software development</li>
+  <li>Web developer</li>
 </ul>
 
 ## Skills
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,lua,java,github,discord,instagram" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,lua,java,github" />
 </div>
 
 ## Statistics
