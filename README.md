@@ -13,7 +13,7 @@
 ## Skills
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,lua,java,github" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,lua,java,,github,vscode,visualstudio" />
 </div>
 
 ## Statistics
